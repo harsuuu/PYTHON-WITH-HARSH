@@ -1,0 +1,8 @@
+a = (4==4)
+b = (10>5)
+c = (15<5)
+d = (15 != 10)
+print(a)
+print(b)
+print(c)
+print(d)
